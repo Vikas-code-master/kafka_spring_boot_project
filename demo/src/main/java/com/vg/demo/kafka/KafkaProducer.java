@@ -22,6 +22,7 @@ public class KafkaProducer {
 	}
 	
 	public static void main(String[] args) {
+		
 		LOGGER.info(" send msg is {} :", "hiiiihdkshd");
 	}
 
